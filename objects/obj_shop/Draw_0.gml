@@ -1,0 +1,1 @@
+// draw_self() should not be written

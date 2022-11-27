@@ -1,0 +1,1 @@
+pressed_chongus = 10
